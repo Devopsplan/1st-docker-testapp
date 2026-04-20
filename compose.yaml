@@ -23,3 +23,10 @@ services:
 # To run  or start the compose-file/containers = docker compose -f fileName.yaml up -d
 # To run  or stop the compose-file/containers = docker compose -f fileName.yaml down
 
+# Backend API = node server.js      http://localhost:5050/getUsers
+
+# localhoast:5050 UI
+# Mongo Express UI =  http://localhost:8081 backend UI
+
+
+

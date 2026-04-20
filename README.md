@@ -1,7 +1,11 @@
 # docker-testapp
 
 
+sudo apt install nodejs
 
+node server.js
+
+-----------------------------------
 
 docker network create mongo-network
 
